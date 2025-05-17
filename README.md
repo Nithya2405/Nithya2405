@@ -7,15 +7,6 @@
 
 ---
 
-### 🛠 Tech Stack
-
-- 💻 Languages: `Python`, `C++`, `JavaScript`
-- 🌐 Frameworks: `Django`, `FastAPI`, `HTML/CSS`
-- 🧠 ML Tools: `TensorFlow`, `scikit-learn`
-- 🛢 Databases: `MySQL`, `SQLite`
-
----
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bluelillyspider) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nithyasundari-s-2a9546299/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3Bde590bd7-866b-4ecf-b04d-2f108cd01822) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithya2005sundari@gmail.com) 
 
