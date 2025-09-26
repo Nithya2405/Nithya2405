@@ -2,8 +2,18 @@
 
 🎓 Artificial Intelligence and Machine Learning Student at **Sethu Institute of Technology**
 
-🔭 Currently working on: **IPL Prediction System**  
-🌱 Actively learning: **Django**, **FastAPI**, and **Machine Learning**
+I'm diving deep into the world of **Generative AI** and **Large Language Models (LLMs)**.
+
+💻 **Currently working on:** **Prompt Engineering** techniques for improving **LLM zero-shot and few-shot performance**.
+> Related Projects: Building a custom **chatbot** using the OpenAI API for structured data extraction, and developing a **text summarization pipeline** focused on prompt optimization.
+
+---
+
+### 🚀 Tech Stack & Learning
+
+✨ **Skills:** Python, SQL, Machine learning, APIs...
+
+🌱 **Actively learning:** **Prompt Engineering**, **AI/ML Principles**, **Neural Networks**, and advanced concepts in **Deep Learning** (specifically Transformers).
 
 ---
 
