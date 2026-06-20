@@ -43,7 +43,7 @@ currently   :
 |---|---|---|
 | 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#) |
 | 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js)](#) |
-| ⚙️ | **Backend** | [![](https://skillicons.dev/icons?i=django,fastapi)](#) |
+| ⚙️ | **Backend** | [![](https://skillicons.dev/icons?i=django,fastapi,go)](#) |
 | 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=github,git,docker)](#) |
 | 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=postman,npm,vscode,visualstudio,codepen)](#) |
 | 🎯 | **Other** | [![](https://skillicons.dev/icons?i=pr,ps,figma)](#) |
