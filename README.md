@@ -69,21 +69,6 @@ currently   :
 
 </div>
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithya2405&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-<img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
-
-<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhx01&theme=radical"/>
-
-</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
